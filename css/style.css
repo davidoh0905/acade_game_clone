@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#scoreboard {
+    display: block;
+    margin: 40px auto 0 auto;
+}
+
+#playscreen {
+    height: 550px;
+}
